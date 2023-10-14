@@ -44,7 +44,7 @@ Here are some featured sample projects that demonstrate my AWS architect skills:
 - **Description**: Demonstrates how to set up Amazon RDS for high availability and failover.
 - **Key Services**: Amazon RDS (Multi-AZ setup), Amazon Route 53.
 
-(Feel free to add more projects with descriptions and key AWS services.)
+
 
 ## Documentation
 
@@ -61,7 +61,7 @@ I welcome contributions, feedback, and suggestions from the community. If you'd 
 - Fork the repository.
 - Create a new branch for your contribution.
 - Make your changes and submit a pull request.
-- Be sure to follow the project's coding and documentation standards.
+
 
 ## License
 
